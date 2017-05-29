@@ -32,3 +32,5 @@ VM就是ViewModel，他是数据的状态，用以串联视图与数据，举个
 }
 ```
 所应对error不同状态，会有对应的View展现，数据错误的和没有数据的视图
+
+另外你可以阅读[完整版](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
